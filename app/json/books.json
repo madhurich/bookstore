@@ -1,0 +1,94 @@
+[{
+	"id": 1,
+	"cover":"img/book1.jpg",
+	"price":"10.99",
+	"title": "PSpice for digital communications engineering",
+	"author": "Paul tobin, 1948",
+	"publicationinfo": "San Rafael, Calif. (1537 Fourth Street,San Rafael, CA 94901 USA): Morgan & Claypool Publishers, ©2007",
+	"edition": "1st ed.",
+	"series": "Synthesis lectures on digital circuits and systems (Online) #10.",
+	"relatedworks": "Synthesis digital library of engineering and computer science",
+	"summary": " PSpice for Digital Communications Engineering shows how to simulate digital communication systems and modulation methods using the very powerful Cadence Orcad PSpice version 10.5 suite of software programs. Fourier series and Fourier transform are applied to signals to set the ground work for the modulation techniques introduced in later chapters. Various baseband signals, including duo-binary baseband signaling, are generated and the spectra are examined to detail the unsuitability of these signals for accessing the public switched network. Pulse code modulation and time-division multiplexing circuits are examined and simulated where sampling and quantization noise topics are discussed. We construct a single-channel PCM system from transmission to receiver i.e. end-to-end, and import real speech signals to examine the problems associated with aliasing, sample and hold. Companding is addressed here and we look at the A and mu law characteristics for achieving better signal to quantization noise ratios."
+},
+{
+	"id": 2,
+	"cover":"img/book2.jpg",
+	"price":"9.99",
+	"title": "Electrical engineering 101: everything you should have learned in school-- but probably didn't",
+	"author": " Darren Ashby",
+	"publicationinfo": "Boston, MA: Newnes, 2012",
+	"edition": "3rd ed.",
+	"series": "Lecture notes in electrical engineering; v.135",
+	"relatedworks": "Print version: Measuring technology and mechatronics automation in electrical engineering. New York: Springer, 2012",
+	"summary": " Electrical Engineering 101 covers the basic theory and practice of electronics, starting by answering the question 'What is electricity'? It goes on to explain the fundamental principles and components, relating them constantly to real-world examples. Sections on tools and troubleshooting give engineers deeper understanding and the know-how to create and maintain their own electronic design projects. Unlike other books that simply describe electronics and provide step-by-step build instructions, EE101 delves into how and why electricity and electronics work, giving the reader the tools to take their electronics education to the next level. It is written in a down-to-earth style and explains jargon, technical terms and schematics as they arise."
+},
+{
+	"id": 3,
+	"cover":"img/book3.jpg",
+	"price":"11.99",
+	"title": "Transmission and distribution electrical engineering",
+	"author": " C. R. (Colin R.) Bayliss",
+	"publicationinfo": "Oxford: Newnes, 2011",
+	"edition": "4th ed. / by Colin Bayliss, Brian Hardy.",
+	"series": " Print version: Bayliss, C.R. (Colin R.). Transmission and distribution electrical engineering. 4th ed. Oxford: Newnes",
+	"relatedworks": "Electric power transmission",
+	"summary": "This market leading classic is a true comprehensive on-the-job reference, covering all aspects of getting electricity from the source to user via the power grid. Electric power transmission and distribution is a huge sector, and engineers require the real world guidance of this book in order to upgrade networks to handle smart and renewable sources of power. This new edition covers renewable and distributed energy developments, international regulatory compliance issues with coverage of IEC standards, and new key conversions to US based standards and terminologies Utilising examples from real-life systems and challenges, this book clearly and succinctly outlines fundamental knowledge requirements for working in this area. Written by engineers for engineers, theory is tied to current best-practice, and new chapters cover hot topics including DC Transmission, Smart Networks and bringing renewable sources into the grid."
+},
+{
+	"id": 4,
+	"cover":"img/book4.jpg",
+	"price":"10.99",
+	"title": "Optical fiber telecommunications, Vol. B, Systems and networks",
+	"author": " Ivan P. Kaminow, 1930-| Tingye Li| Alan E. Willner",
+	"publicationinfo": "Oxford: Academic Press Inc., 2013",
+	"edition": "6th ed.",
+	"series": "Optics and photonics",
+	"relatedworks": "Electric power transmission",
+	"summary": "Optical Fiber Telecommunications VI (A&B) is the sixth in a series that has chronicled the progress in the R&D of lightwave communications since the early 1970s. Written by active authorities from academia and industry, this edition brings a fresh look to many essential topics, including devices, subsystems, systems and networks. A central theme is the enabling of high-bandwidth communications in a cost-effective manner for the development of customer applications. These volumes are an ideal reference for R&D engineers and managers, optical systems implementers, university researchers and students, network operators, and investors. Volume A is devoted to components and subsystems, including photonic integrated circuits, multicore and few-mode fibers, photonic crystals, silicon photonics, signal processing, and optical interconnections. Volume B is devoted to systems and networks, including advanced modulation formats, coherent detection, Tb/s channels, space-division multiplexing, reconfigurable networks, broadband access, undersea cable, satellite communications, and microwave photonics. All the latest technologies and techniques for developing future components and systemsEdited by two winners of the highly prestigious OSA/IEEE John Tyndal award and a President of IEEE's Lasers & Electro-Optics Society (7,000 members)Written by leading experts in the field, it is the most authoritative and comprehensive reference on optical engineering the market."
+},
+{
+	"id": 5,
+	"cover":"img/book5.jpg",
+	"price":"12.99",
+	"title": "Research, practice, and educational advancements in telecommunications and networking",
+	"author": "Michael R. Bartolacci, 1954-| Steven Powell| IGI Global Books| IGI Global",
+	"publicationinfo": "Hershey, Pa: IGI Global (701 E. Chocolate Avenue, Hershey, Pennsylvania, 17033, USA), ©2012",
+	"edition": "3rd ed.",
+	"series": "Electronic books",
+	"relatedworks": " Cell phone systems,Online social networks, Telecommunication, Local area networks",
+	"summary": "This book offers multidisciplinary perspectives on architectures and systems for effective, efficient communication across different types of infrastructures, which include online and wireless networks -- Provided by publisher."
+},{
+	"id": 6,
+	"cover":"img/book6.jpg",
+	"price":"10.99",
+	"title": "High voltage protection for telecommunications",
+	"author": "Steven Warren Blume",
+	"publicationinfo": "Hoboken, N.J: Wiley-IEEE Press, 2011",
+	"edition": "1st ed",
+	"series": "IEEE Press series on power engineering",
+	"relatedworks": "Telecommunication — Equipment and supplies — Protection",
+	"summary": "'There is growing concern that new engineers, planners, and field technicians are not aware of the danger and reliability issues surrounding proper protection of telecommunications circuits. Using a practical, hands-on approach, High Voltage Protection for Telecommunications combines all the essential information and key issues into one book. Designed for professional training and self-study, the text will help guide managers, engineers, planners, and technicians through the process of planning, designing, installing, and maintaining safe and reliable data and voice communications circuits that are exposed to High Voltage events'-- Provided by publisher."
+},{
+	"id": 7,
+	"cover":"img/book7.jpg",
+	"price":"11.99",
+	"title": "Integration of distributed energy resources in power systems: implementation, operation and control",
+	"author": "Toshihisa Funabashi, editor",
+	"publicationinfo": "London, UK: Academic Press is an imprint of Elsevier, 2016",
+	"edition": "2nd ed.",
+	"series": "IEEE Press series on power systems",
+	"relatedworks": "Electric power transmission Renewable energy sources",
+	"summary": "Integration of Distributed Energy Resources in Power Systems: Implementation, Operation and Control covers the operation of power transmission and distribution systems and their growing difficulty as the share of renewable energy sources in the world's energy mix grows and the proliferation trend of small scale power generation becomes a reality. The book gives students at the graduate level, as well as researchers and power engineering professionals, an understanding of the key issues necessary for the development of such strategies. It explores the most relevant topics, with a special focus on transmission and distribution areas. Subjects such as voltage control, AC and DC microgrids, and power electronics are explored in detail for all sources, while not neglecting the specific challenges posed by the most used variable renewable energy sources."
+},{
+	"id": 8,
+	"cover":"img/book8.jpg",
+	"price":"10.99",
+	"title": "Industrial process automation systems: design and implementation",
+	"author": "B. R. Mehta, author",
+	"publicationinfo": "Amsterdam: Elsevier, 2015",
+	"edition": "1st ed.",
+	"series": "IEEE Automation Control",
+	"relatedworks": "Expert systems (Computer science) — Industrial applications",
+	"summary": "Industrial Process Automation Systems: Design and Implementation is a clear guide to the practicalities of modern industrial automation systems. Bridging the gap between theory and technician-level coverage, it offers a pragmatic approach to the subject based on industrial experience, taking in the latest technologies and professional practices. Its comprehensive coverage of concepts and applications provides engineers with the knowledge they need before referring to vendor documentation, while clear guidelines for implementing process control options and worked examples of deployments translate theory into practice with ease. This book is an ideal introduction to the subject for junior level professionals as well as being an essential reference for more experienced practitioners."
+}
+]

@@ -1,0 +1,66 @@
+/* app css stylesheet */
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li + li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+.navbar{
+	background-color: rgba(102, 179, 255, 0.7);
+}
+.details{
+	margin-top: 10px;
+}
+.thumb {
+    margin-bottom: 30px;
+}
+body{
+  background-image: url('img/blue.jpg');
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+a.heading{
+  color: black;
+}
+a.heading:hover, a.heading:link{
+  text-decoration: none;
+}
+.heading{
+  float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+img{
+  box-shadow: 7px 7px 3px rgba(102, 179, 255, 0.9);
+  border-radius: 6px;
+}
+img:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+p.price{
+  margin-top: 10px;
+}
+p.summary{
+  line-height: 25px;
+}
